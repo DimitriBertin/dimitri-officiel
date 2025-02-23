@@ -1,0 +1,162 @@
+@import "@/styles/mixins";
+
+.block {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+
+  .richtext {
+    &--center {
+      text-align: center;
+    }
+
+    &--right {
+      text-align: center;
+    }
+  }
+
+  &-video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(10 / 12 * 100%);
+    margin-left: auto;
+    margin-right: auto;
+
+    .video {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 1rem;
+
+      video {
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        max-height: 100%;
+        // object-fit: contain;
+      }
+    }
+  }
+
+  &-spacer {
+    @include desktop {
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+    }
+  }
+
+  &-image {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include tablet-landscape {
+      width: calc(10 / 12 * 100%);
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .image {
+      width: 100%;
+    }
+
+    &-simple {
+      img {
+        max-width: 100%;
+        width: auto;
+      }
+    }
+  }
+
+  .image {
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &-none {
+      img {
+        // object-fit: none;
+
+        @include desktop {
+          object-fit: none;
+        }
+      }
+    }
+
+
+    &--small {
+      width: calc( 10 / 12 * 100%);
+
+      @include tablet-landscape {
+        width: calc( 8 / 12 * 100%);
+      }
+    }
+  }
+
+  .caption {
+    font-size: 1.15rem;
+    opacity: .9;
+    // font-style: italic;    
+    text-align: center;
+
+    @include desktop {
+      max-width: 40vw;;
+    }
+  }
+
+  &-images {
+    // width: calc(10 / 12 * 100%);
+    // margin-left: auto;
+    // margin-right: auto;
+
+    
+    .images {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-gap: .5rem;
+
+      @include tablet-landscape {
+        grid-gap: 2rem;
+        grid-template-columns: 1fr 1fr;
+
+      }
+    }
+  }
+
+  &-gallery {
+    .gallery {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 1rem;
+
+      @include tablet-landscape {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+  }
+
+  &-content {
+    @include tablet {
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+    }
+    @include desktop {
+      padding-top: 8rem;
+      padding-bottom: 8rem;
+    }
+    .content {
+      @include desktop {
+        width: 100%;
+        max-width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+}

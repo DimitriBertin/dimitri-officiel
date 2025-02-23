@@ -1,0 +1,256 @@
+{
+  "slug": "eiffage",
+  "color": "#EB0000",
+  "labelColor": "#EB0000",
+  "title": "Eiffage Construction",
+  "content": "Lorem ipsum dolor sit amet. Aut ipsum quaerat eos error tempora et sint culpa id rerum quos? Ut ipsum sint cum dolor earum vel impedit blanditiis. Hic repudiandae eligendi aut ullam quia sed asperiores ipsam et modi vitae et reiciendis consequatur qui voluptatem voluptatem ut repellat voluptas.",
+  "keyword": ["HTML", "SASS", "ES6"],
+  "url": "https://www.eiffageconstruction.com/",
+  "year": "2020",
+  "tags": ["ES6", "Symfony", "HTML", "SASS"],
+  "banner": {
+    "url": "/assets/project/richard-mille/richard-mille-inside.jpg",
+    "width": 1800,
+    "height": 980,
+    "alt": ""
+  },
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>Lorem ipsum dolor sit amet. Aut ipsum quaerat eos error tempora et sint culpa id rerum quos? Ut ipsum sint cum dolor earum vel impedit blanditiis. Hic repudiandae eligendi aut ullam quia sed asperiores ipsam et modi vitae et reiciendis consequatur qui voluptatem voluptatem ut repellat voluptas.</p>",
+      "background": "#211f21",
+      "textcolor": "#FFFFFF",
+      "align": "center"
+    },
+    {
+      "type": "video",
+      "components": "Video",
+      "background": "#211f21",
+      "textcolor": "#FFFFFF",
+      "video": {
+        "url": "/assets/project/eiffage/video-2.mp4",
+        "help": "Developpement front-end réalisé en HTML / CSS / JS du système de slider pour cette page.",
+        "poster": "/assets/project/eiffage/video-2-poster.jpg",
+        "caption": "Video caption"
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "background": "#211f21",
+      "size": "small",
+      "textcolor": "#FFFFFF",
+      "image": {
+        "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+        "caption": "Image caption hello", 
+        "alt": "Une superbe image",
+        "sizes": {
+          "small": {
+            "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+            "width": 600,
+            "height": 317
+          },
+          "medium": {
+            "url": "/assets/project/eiffage/eiffage-slider-medium.jpg",
+            "width": 1000,
+            "height": 528
+          },
+          "full": {
+            "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+            "width": 1637,
+            "height": 864
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "background": "#211f21",
+      "size": "default",
+      "textcolor": "#FFFFFF",
+      "image": {
+        "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+        "caption": "Image caption hello", 
+        "alt": "Une superbe image avec des nouveautés",
+        "sizes": {
+          "small": {
+            "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+            "width": 600,
+            "height": 317
+          },
+          "medium": {
+            "url": "/assets/project/eiffage/eiffage-slider-medium.jpg",
+            "width": 1000,
+            "height": 528
+          },
+          "full": {
+            "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+            "width": 1637,
+            "height": 864
+          }
+        }
+      }
+    },
+    {
+      "type": "images",
+      "components": "Images",
+      "images": [
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "medium": {
+              "url": "/assets/project/eiffage/eiffage-slider-medium.jpg",
+              "width": 1000,
+              "height": 528
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        },
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "medium": {
+              "url": "/assets/project/eiffage/eiffage-slider-medium.jpg",
+              "width": 1000,
+              "height": 528
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        }
+      ]      
+    },
+    {
+      "type": "gallery",
+      "components": "Gallery",
+      "background": "#ffffff",
+      "images": [
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        },
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        },
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        },
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        },
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        },
+        {
+          "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+          "caption": "Image caption hello", 
+          "alt": "Une superbe image avec des nouveautés",
+          "sizes": {
+            "small": {
+              "url": "/assets/project/eiffage/eiffage-slider-small.jpg",
+              "width": 600,
+              "height": 317
+            },
+            "full": {
+              "url": "/assets/project/eiffage/eiffage-slider-full.jpg",
+              "width": 1637,
+              "height": 864
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

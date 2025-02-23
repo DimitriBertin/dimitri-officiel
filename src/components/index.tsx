@@ -1,0 +1,7 @@
+export { default as Header } from './header'
+export { default as AboutPage } from './about'
+export { default as HomePage } from './home'
+export { default as PhotographyPage } from './photography'
+export { default as ProjectPage } from './project'
+export { default as ContactPage } from './contact'
+export { default as LinkArrow } from './linkArrow'

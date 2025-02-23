@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Axa",
+    "slug": "axa",
+    "banner": "/assets/project/axa/banner.jpg",
+    "description": "Next JS / Typescript / Webpack / Express / Twitter / OpenID / Three JS / Khoros / D3" 
+  },
+  {
+    "title": "Nature Cos",
+    "slug": "nature-cos",
+    "banner": "/assets/project/nature-cos/cover.jpg",
+    "description": "Shopify / HTML / SASS / Javascript ES6"
+  },
+  {
+    "title": "Richard Mille",
+    "slug": "richard-mille",
+    "banner": "/assets/project/richard-mille/thumbnail.jpeg",
+    "description": "React / Stylus / Webpack "
+  }
+]

@@ -1,0 +1,133 @@
+@import "@/styles/mixins";
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9;
+  background: white;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+
+  @include tablet {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  @include desktop-xl {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  &-right {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+
+.logo, .nav-item {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.nav {
+  @include phone {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: white;
+    padding: 3rem;
+    padding-top: 6rem;
+    flex-direction: column;
+    align-items: flex-end;
+    box-shadow: 3px 3px 44px rgba(0, 0, 0, 0.25);
+    z-index: 0;
+    transform: translateX(100%);
+    transition: all .3s ease-out;
+
+    &.is-open {
+      display: flex;
+      animation: open .2s ease-in forwards;
+    }
+  }
+
+  display: flex;
+
+  &-item {
+    position: relative;
+    transition: .1s ease-out;
+
+    &.is-active,
+    &:hover {
+      color: var(--color-primary);
+    }
+  }
+
+  &-btn {
+    padding: 0;
+    border: 0;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: .5rem;
+    border-radius: 4px;
+    z-index: 1;
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+
+    @include tablet {
+      display: none;
+    }
+  }
+}
+
+.lang {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: white;
+  z-index: 99;
+
+  gap: .5rem;
+  position: fixed;
+  top: 50%;
+  right: 0rem;
+  
+  &-middle {
+    width: 1rem;
+    height: 1px;
+    background-color: black;
+    display: block;
+  }
+
+  &-item {
+    font-size: .75rem;
+    letter-spacing: 1px;
+    font-weight: 500;
+    // opacity: 0.5;
+
+    &.is-active {
+      color: var(--color-primary);
+    }
+  }
+}
+
+@keyframes open {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
+}

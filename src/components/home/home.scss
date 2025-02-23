@@ -1,0 +1,24 @@
+
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  .title {
+    align-items: center;
+  }
+
+  &-content {
+    display: flex;
+    // gap: clamp(.5rem, 5vw, 1.25rem);
+    flex-direction: column;
+  }
+
+  &-link {
+    position: absolute;
+    bottom: 4rem;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
+}

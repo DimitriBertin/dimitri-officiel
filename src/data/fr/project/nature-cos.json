@@ -1,0 +1,107 @@
+{
+  "slug": "nature-cos",
+  "title": "Nature Cos",
+  "url": "",
+  "description": "Shopify / Javascript ES6 / Liquid",
+  "banner": {
+    "url": "/assets/project/nature-cos/cover-big.jpg",
+    "width": 1634,
+    "height": 540,
+    "alt": ""
+  }, 
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>J'ai conçu et développé un site Shopify pour Nature Cos, une marque de maquillage professionnel et bio, en utilisant Liquid, Sass et HTML. Ce site met en avant leurs produits, raconte l'histoire de la marque, et propose des articles thématiques.<br/><a href='https://naturecos.com' target='_blank'>Voir le site</a></p>",
+      "align": "center",
+      "background": "#FFF"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "none",
+      "image": {
+        "url": "/assets/project/nature-cos/brand.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 700,
+        "height": 504
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "none",
+      "image": {
+        "url": "/assets/project/nature-cos/menu.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1384,
+        "height": 435
+      }
+    },
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>J'ai travaillé à valoriser les différentes marques de Nature Cos (Miss W Pro, Green Care, Couleur Caramel) en créant une expérience utilisateur fluide et un design qui reflète leurs valeurs respectives. Cette approche a permis de mettre en avant l'identité unique de chaque marque tout en construisant une harmonie visuelle et fonctionnelle, pour offrir un ensemble cohérent qui respecte leurs singularités artistiques.</p>",
+      "align": "center",
+      "background": "#FFF"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "none",
+      "image": {
+        "url": "/assets/project/nature-cos/products.jpg",
+        "alt": "",
+        "caption": "",
+        "width": 1367,
+        "height": 483
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "none",
+      "image": {
+        "url": "/assets/project/nature-cos/articles.jpg",
+        "alt": "",
+        "caption": "Le blog est une partie intégrante du site. Elle a été integré directement dans Shopify en liquid. Une catégorisation permet de filtrer facilement les articles.",
+        "width": 1597,
+        "height": 967
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "none",
+      "image": {
+        "url": "/assets/project/nature-cos/bottom.jpg",
+        "alt": "",
+        "caption": "Conçues pour offrir une expérience de navigation fluide et intuitive, ces sous-catégories guident les clients facilement vers les produits qui y correspondent",
+        "width": 1597,
+        "height": 967
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "none",
+      "image": {
+        "url": "/assets/project/nature-cos/storelocator.jpg",
+        "alt": "",
+        "caption": "J'ai mis en place un store locator combinant Google Maps et Shopify, permettant aux utilisateurs de localiser facilement les points de vente à proximité grâce à une intégration fluide et interactive",
+        "width": 1597,
+        "height": 967
+      }
+    }
+  ],
+  "seo": {
+    "title": "Naturecos, Site e-commerce sur Shopify | Dimitri Bertin",
+    "title_social": "Naturecos, Site e-commerce sur Shopify | Dimitri Bertin",
+    "description_social": "Découvrez mon travail sur NatureCos, un projet de site e-commerce avec Shopify en liquid / ES6 et Sass. ",
+    "description": "Découvrez mon travail sur NatureCos, un projet de site e-commerce avec Shopify en liquid / ES6 et Sass.",
+    "url": "https://dimitribertin.be/fr/projects/nature-cos"
+  }
+}

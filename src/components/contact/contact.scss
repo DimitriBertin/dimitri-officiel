@@ -1,0 +1,59 @@
+@import "@/styles/mixins";
+
+// About
+.contact {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  @include desktop {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  &-copyright {
+    color: var(--color-content-light);
+  }
+
+  &-wrap-banner {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    gap: 2rem;
+
+    @include tablet-landscape {
+      align-items: center;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+
+  &-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    @include tablet-landscape {
+      flex-direction: row;
+      gap: 2rem;
+    }
+
+    span {
+      font-size: 1.5rem;
+      vertical-align: middle;
+    }
+
+    p {
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+    }
+  }
+}

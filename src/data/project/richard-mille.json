@@ -1,0 +1,128 @@
+{
+  "slug": "richard-mille",
+  "title": "Richard Mille",
+  "content": "",
+  "url": "https://www.eiffageconstruction.com/",
+  "description": "React / Emotion / Webpack / Axios / Symfony",
+  "banner": {
+    "url": "/assets/project/richard-mille/richard-mille-banner.jpg",
+    "width": 1800,
+    "height": 980,
+    "alt": ""
+  },
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>Dans le cadre d’un projet interne pour Richard Mille, j’ai développé un site en React, conçu sur mesure pour répondre à leurs besoins spécifiques. Ce site intègre plusieurs fonctionnalités clés, telles que des pages d’e-learning interactives, une section dédiée aux partenaires, une présentation de l’équipe, une page informative sur les contrefaçons, et un agenda intuitif pour la gestion des événements. Chaque élément a été conçu pour offrir une expérience utilisateur optimale, combinant esthétisme, performance et praticité, tout en illustrant ma maîtrise des technologies modernes pour le développement de solutions web adaptées.</p>",
+      "align": "center",
+      "background": "#FFF"
+    },
+    {
+      "type": "images",
+      "components": "Images",
+      "images": [
+        {
+          "url": "/assets/project/richard-mille/richard-mille-prost.jpeg",
+          "width": 1368,
+          "height": 1280,
+          "alt": ""
+        },
+        {
+          "url": "/assets/project/richard-mille/richard-mille-watch.jpg",
+          "width": 739,
+          "height": 994,
+          "type": "none",
+          "alt": ""
+        }
+      ]
+    },
+    {
+    "type": "image",
+      "components": "image",
+      "size": "default",
+      "image": {
+        "url": "/assets/project/richard-mille/richard-mille-home.jpg",
+        "alt": "Une superbe image avec des nouveautés",
+        "width": 739,
+        "height": 994
+      }
+    },
+    {
+      "type": "images",
+      "components": "images",
+      "size": "default",
+      "images": [
+        {
+          "url": "/assets/project/richard-mille/richard-mille-menu.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        },
+        {
+          "url": "/assets/project/richard-mille/richard-mille-challenge.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        }
+      ]
+    },
+    {
+      "type": "images",
+      "components": "images",
+      "size": "default",
+      "images": [
+        {
+          "url": "/assets/project/richard-mille/richard-mille-1.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        },
+        {
+          "url": "/assets/project/richard-mille/richard-mille-2.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        }
+      ]
+    },
+    {
+      "type": "images",
+      "components": "images",
+      "size": "default",
+      "images": [
+        {
+          "url": "/assets/project/richard-mille/richard-mille-3.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        },
+        {
+          "url": "/assets/project/richard-mille/richard-mille-4.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        }
+      ]
+    },
+    {
+      "type": "images",
+      "components": "images",
+      "size": "default",
+      "images": [
+        {
+          "url": "/assets/project/richard-mille/richard-mille-5.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        },
+        {
+          "url": "/assets/project/richard-mille/richard-mille-6.jpg",
+          "alt": "Une superbe image avec des nouveautés",
+          "width": 739,
+          "height": 994
+        }
+      ]
+    }
+  ]
+}

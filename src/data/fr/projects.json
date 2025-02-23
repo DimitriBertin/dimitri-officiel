@@ -1,0 +1,12 @@
+{
+  "title": "Mes projets de développeur",
+  "description": "<p>Vous y trouverez des réalisations variées mettant en avant mes compétences en React, WordPress, TypeScript, et Shopify.<br/> Chaque projet illustre mon engagement à créer des expériences numériques performantes, intuitives et adaptées aux besoins des clients.</p>",
+  "return": "Retour à l'accueil",
+  "seo": {
+    "title": "Développeur Front-End à Bruxelles - Expert en JavaScript, React, Next.js et WordPress | Dimitri Bertin",
+    "title_social": "Développeur Front-End à Bruxelles - Expert en JavaScript, React, Next.js et WordPress",
+    "description_social": "Développeur front-end passionné, je crée des sites modernes et performants avec React, Next.js et WordPress.",
+    "description": "Développeur front-end passionné, spécialisé dans WordPress, JavaScript, React et Next.js. Découvrez mon travail et mes projets de développement web modernes et personnalisés.",
+    "url": "https://dimitribertin.be/fr/projects"
+  }
+}

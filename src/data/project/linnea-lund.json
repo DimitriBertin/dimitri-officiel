@@ -1,0 +1,23 @@
+{
+  "slug": "linnea-lund",
+  "color": "#FFFFFF",
+  "labelColor": "#C59C71",
+  "title": "Linnea Lund",
+  "url": "",
+  "description": "Next JS / Typescript / Webpack / Express / Twitter / OpenID / Three JS / Khoros / D3",
+  "banner": {
+    "url": "/assets/project/axa/banner.jpg",
+    "width": 1800,
+    "height": 980,
+    "alt": ""
+  }, 
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>Dans le cadre d’un projet interne pour Richard Mille, j’ai développé un site en React, conçu sur mesure pour répondre à leurs besoins spécifiques. Ce site intègre plusieurs fonctionnalités clés, telles que des pages d’e-learning interactives, une section dédiée aux partenaires, une présentation de l’équipe, une page informative sur les contrefaçons, et un agenda intuitif pour la gestion des événements. Chaque élément a été conçu pour offrir une expérience utilisateur optimale, combinant esthétisme, performance et praticité, tout en illustrant ma maîtrise des technologies modernes pour le développement de solutions web adaptées.</p>",
+      "align": "center",
+      "background": "#FFF"
+    }
+  ]
+}

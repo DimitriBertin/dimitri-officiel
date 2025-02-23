@@ -1,0 +1,84 @@
+{
+  "slug": "richard-mille",
+  "title": "Richard Mille",
+  "content": "",
+  "url": "https://www.eiffageconstruction.com/",
+  "description": "React / Emotion / Webpack / Axios / Symfony",
+  "banner": {
+    "url": "/assets/project/richard-mille/richard-mille-banner.jpg",
+    "width": 1800,
+    "height": 980,
+    "alt": ""
+  },
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>As part of an internal project for Richard Mille, I developed a site in React, tailored to meet their specific needs. The site incorporates several key functionalities, such as interactive e-learning pages, a partner section, a team presentation, an informative page on counterfeiting, and an intuitive calendar for managing events. Each element has been designed to offer an optimal user experience, combining aesthetics, performance and practicality, while illustrating my mastery of modern technologies for the development of tailored web solutions.</p>",
+      "align": "center",
+      "background": "#FFF"
+    },
+    {
+      "type": "images",
+      "components": "Images",
+      "images": [
+        {
+          "url": "/assets/project/richard-mille/richard-mille-prost.jpeg",
+          "width": 1368,
+          "height": 1280,
+          "alt": ""
+        },
+        {
+          "url": "/assets/project/richard-mille/richard-mille-watch.jpg",
+          "width": 739,
+          "height": 994,
+          "type": "none",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#FFF"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "default",
+      "background": "#000",
+      "textcolor": "#FFF",
+      "image": {
+        "url": "/assets/project/richard-mille/richard-mille-home.jpg",
+        "alt": "",
+        "caption": "The home screen offers an intuitive interface that incorporates a search bar and four customisable (push) sections that users can select to display according to their preferences. This screen has been developed using React, guaranteeing a fluid, responsive experience thanks to its efficient management of components and status.",
+        "width": 739,
+        "height": 994
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#000"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "default",
+      "image":{
+        "url": "/assets/project/richard-mille/ecrans.jpg",
+        "alt": "",
+        "caption": "These different watch presentation screens have been developed using React and Swiper, simulating PDF slides.",
+        "width": 739,
+        "height": 994
+      }
+    }
+  ],
+  "seo": {
+    "title": "Richard Mille, internal site in React and Emotion | Dimitri Bertin", 
+    "title_social": "Richard Mille, internal site in React and Emotion | Dimitri Bertin",
+    "description_social": "Discover my work on Richard Mille, an internal project using React / Emotion / Symfony", 
+    "description": "Discover my work on Richard Mille, an internal project that combines various technologies: React / Emotion / Symfony. Through different pages, users can learn more about the brand and its watches.",
+    "url": "https://dimitribertin.be/en/projects/richard-mille"
+  }
+}

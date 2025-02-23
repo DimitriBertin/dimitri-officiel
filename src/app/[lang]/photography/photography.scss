@@ -1,0 +1,55 @@
+@import "@/styles/mixins";
+
+.photography {
+  &-grid {
+    padding: 2rem 0 1rem;
+
+    // @include tablet {
+      display: grid;
+      align-items: center;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+
+      &:not(.photography-grid--3) {
+        grid-template-columns: 1fr 1fr;
+      }
+    // }
+
+    @include tablet-landscape {
+      gap: 2rem;
+    }
+
+    @include desktop {
+      grid-template-columns: 1fr 1fr 1fr;
+      &:not(.photography-grid--3) {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+      }
+      padding: 2vw 0;
+      gap: 4vw;
+    }
+  }
+
+  &-page {
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+    
+    @include desktop {
+      padding-top: 12rem;
+      padding-bottom: 4rem;
+    }
+
+    &-content {
+      margin-top: 2rem;
+
+      @include tablet-landscape {
+        max-width: calc(2 / 3 * 100%);
+      }
+    }
+  }
+
+  &-thumb {
+    img {
+      object-fit: contain;
+    }
+  }
+}

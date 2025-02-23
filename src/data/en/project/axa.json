@@ -1,0 +1,122 @@
+{
+  "slug": "axa",
+  "color": "#FFFFFF",
+  "labelColor": "#C59C71",
+  "title": "Axa",
+  "url": "",
+  "description": "Next JS / Typescript / Webpack / Express / Twitter / OpenID / Three JS / Khoros / D3",
+  "banner": {
+    "url": "/assets/project/axa/banner.jpg",
+    "width": 1800,
+    "height": 980,
+    "alt": ""
+  }, 
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>The React and TypeScript project developed for Axa aims to visualise the brand's e-reputation audit using dynamic dashboards. Using Khoros, data from social networks and forums was collected and analysed. The interfaces, designed with Three.js, offer an immersive and captivating visual effect, enhancing the user experience. D3.js has been used to build interactive graphs that enable trends and key indicators to be read intuitively. These pages are designed to be displayed on dedicated screens, providing a real-time overview of online conversations around Axa.<br/> An innovative project combining technical performance and impactful design.</p>",
+      "align": "center",
+      "background": "#7899C9",
+      "textcolor": "#ffffff"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#7899C9",
+      "textcolor": "#ffffff",
+      "image": {
+        "url": "/assets/project/axa/menu.jpg",
+        "alt": "",
+        "caption": "Presentation of the different screens available. Each screen displays sensitive data about the AXA brand.",
+        "width": 1280,
+        "height": 690
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#7899C9"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#4B78B8",
+      "textcolor": "#fff",
+      "image": { 
+        "url": "/assets/project/axa/home-globe.jpg",
+        "alt": "",
+        "caption": "Global representation of feelings around a keyword: the white dot represents a positive feeling, the red dot a negative feeling. To represent these feelings I used the Khoros api and Three JS + React for the representation.",
+        "width": 1274,
+        "height": 520
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#4B78B8",
+      "textcolor": "#fff",
+      "image": {
+        "url": "/assets/project/axa/social.jpg",
+        "alt": "",
+        "caption": "Displaying likes on Instagram / linkedin / twitter",
+        "width": 1274,
+        "height": 520
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#4B78B8",
+      "textcolor": "#fff",
+      "image": {
+        "url": "/assets/project/axa/brand.jpg",
+        "alt": "",
+        "caption": "Widget showing the share of e-reputation of the major players on the web (right) and the keywords used (left) for each brand",
+        "width": 1149,
+        "height": 520
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#4B78B8"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#D4E2F4",
+      "textcolor": "#1F1F1F",
+      "image": {
+        "url": "/assets/project/axa/widget.jpg",
+        "alt": "",
+        "caption": "Widget showing the volume of posts around the brand (left), the sentiment (centre), and the 10 most popular keywords around the brand (right).",
+        "width": 1292,
+        "height": 524
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#D4E2F4"
+    },
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>This ambitious project combines several advanced technologies: React/TypeScript for dynamic interfaces, Three.js for immersive visualisations and D3.js for interactive graphics. It uses data collected via Khoros to analyse Axa's e-reputation in real time. An innovative technical achievement, designed to combine performance and visual impact.</p>",
+      "align": "center"
+    }
+  ],
+  "seo": {
+    "title": "Axa, internal site in Next JS / Node / TypeScript | Dimitri Bertin",
+    "title_social": "Axa, internal site in Next JS / Node / TypeScript | Dimitri Bertin", 
+    "description_social": "Discover my work on Axa, an internal project that combines various technologies in a dynamic interface: NextJS / TypeScript / Axios / ThreeJS / D3 ...",
+    "description": "Discover my work on Axa, an internal project that combines various technologies in a dynamic interface: NextJS / TypeScript / Axios / ThreeJS / D3 ...",
+    "url": "https://dimitribertin.be/en/projects/axa"
+  }
+}

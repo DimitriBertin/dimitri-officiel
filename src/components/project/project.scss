@@ -1,0 +1,124 @@
+@import "@/styles/mixins";
+
+.project {
+  padding-top: 8rem;
+  margin-top: 4rem;
+
+  @include tablet-landscape {
+    margin-top: 8rem;
+    padding-top: 8rem;
+  }
+
+  @include desktop {
+    margin-top: 12rem;
+    padding-top: 12rem;
+  }
+
+  &-content {
+    margin-bottom: 2rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: flex-end;
+
+    @include tablet-landscape {
+      grid-template-columns: 9fr 3fr;
+      margin-bottom: 4rem;
+    }
+    @include desktop {
+      grid-template-columns: 7fr 5fr;
+    }
+  }
+
+  &-right {
+    justify-self: flex-end;
+    display: none;
+
+    @include tablet-landscape {
+      display: block;
+    }
+  }
+
+  &-left {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    text-align: center;
+    
+    @include tablet-landscape {
+      align-items: flex-start;
+      text-align: left;
+    }
+
+    @include desktop {
+      margin-left: calc(1 / 6 * 100%);
+    }
+  }
+
+
+  &-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    // padding: 0  clamp(1.5rem, 8vw, 12rem);
+    // padding: 0 1.5rem;
+    gap: 1rem;
+
+
+    @include tablet-landscape {
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 4rem .5rem;
+      // padding: 0 0.5rem;
+    }
+  }
+
+  &-item {
+    &-bkg {
+      height: 220px;
+      overflow: hidden;
+
+      @include tablet {
+        height: 280px;
+      }
+      @include desktop {
+        height: 420px;
+      }
+
+      img {
+        object-fit: cover;
+        // object-position: center top;
+      }
+    }
+  }
+
+  &-title {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+
+    @include tablet-landscape {
+      padding: 1rem 0rem;
+      font-size: 1.5rem;
+    }
+    
+  }
+
+  &-description {
+    color: #666;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 1rem;
+  }
+
+  &-link {
+    margin: 4rem 0;
+    // margin-top: 8%;
+    // padding: 0rem clamp(1.5rem, 8vw, 12rem);
+    display: flex;
+    justify-content: center;
+
+    @include desktop {
+      margin: 8rem 0;
+
+    }
+  }
+}

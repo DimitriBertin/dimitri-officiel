@@ -1,0 +1,29 @@
+{
+  "header": {
+    "items": [
+      {
+        "label": "Projets",
+        "url": "/fr/#page-project",
+        "slug": "page-project"
+      },
+      {
+        "label": "Photographie",
+        "url": "/fr/#page-photography",
+        "slug": "page-photography"
+      },
+      {
+        "label": "À propos",
+        "url": "/fr/#page-about",
+        "slug": "page-about"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "Tous droits réservés 2024 © Dimitri Bertin",
+    "labelFooter": "Restons en contact",
+    "email": "dimitri.bertin.freelance@gmail.com",
+    "instagram": "https://www.instagram.com/dimitri.bn/",
+    "github": "https://github.com/DimitriBertin",
+    "spotify": "https://open.spotify.com/user/21y6jbi5nexsamtibklxykahq?si=627ac55c1ff94782"
+  }
+}

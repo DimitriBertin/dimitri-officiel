@@ -1,0 +1,270 @@
+{
+  "content": "<p>La photographie argentique, c’est l’art de capturer l’instant avec patience et intention. Chaque cliché, unique et authentique, naît d’un processus réfléchi où la lumière, le grain, et parfois l’imperfection racontent une histoire. Elle m’offre une parenthèse dans un monde rapide, un voyage créatif où chaque pellicule devient une toile vierge pour exprimer ma vision du monde avec sensibilité et profondeur.</p><p><a href='https://www.instagram.com/dimitri.bn/' target='_blank' class='link link-after'>Explorer instagram</a></p>",
+  "rows": [
+      {
+        "type": 4,
+        "images": [
+          {
+            "url": "photo/biarritz.jpg",
+            "name": "Biarritz - 2022",
+            "width": 3602,
+            "height": 5350,
+            "formats": {
+              "thumb": {
+                "url": "photo/biarritz-thumb.jpg",
+                "width": 600,
+                "height": 892
+              },
+              "large": {
+                "url": "photo/biarritz-large.jpg",
+                "width": 1200,
+                "height": 1783
+              }
+            }
+          },
+          {
+            "url": "photo/bruxelles.jpg",
+            "name": "Biarritz - 2022",
+            "width": 3602,
+            "height": 5350,
+            "formats": {
+              "thumb": {
+                "url": "photo/bruxelles-thumb.jpg",
+                "width": 600,
+                "height": 892
+              },
+              "large": {
+                "url": "photo/bruxelles-large.jpg",
+                "width": 1200,
+                "height": 1783
+              }
+            }
+          },
+          {
+            "url": "photo/cretes2.jpg",
+            "name": "Biarritz - 2022",
+            "width": 3602,
+            "height": 5350,
+            "formats": {
+              "thumb": {
+                "url": "photo/cretes2-thumb.jpg",
+                "width": 600,
+                "height": 892
+              },
+              "large": {
+                "url": "photo/cretes2-large.jpg",
+                "width": 1200,
+                "height": 1783
+              }
+            }
+          },
+          {
+            "url": "photo/croatie.jpg",
+            "name": "Biarritz - 2022",
+            "width": 2240,
+            "height": 3360,
+            "formats": {
+              "thumb": {
+                "url": "photo/croatie-thumb.jpg",
+                "width": 600,
+                "height": 900
+              },
+              "large": {
+                "url": "photo/croatie-large.jpg",
+                "width": 1200,
+                "height": 1800
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": 3,
+        "images": [
+          {
+            "url": "photo/bruxelles2.jpg",
+            "name": "Biarritz - 2022",
+            "width": 3360,
+            "height": 2240,
+            "formats": {
+              "thumb": {
+                "url": "photo/bruxelles2-thumb.jpg",
+                "width": 900,
+                "height": 600
+              },
+              "large": {
+                "url": "photo/bruxelles2-large.jpg",
+                "width": 1800,
+                "height": 1200
+              }
+            }
+          },
+          {
+            "url": "photo/portrait.jpg",
+            "name": "Biarritz - 2022",
+            "width": 2048,
+            "height": 1378,
+            "formats": {
+              "thumb": {
+                "url": "photo/portrait-thumb.jpg",
+                "width": 1024,
+                "height": 689
+              },
+              "large": {
+                "url": "photo/portrait-large.jpg",
+                "width": 2048,
+                "height": 1378
+              }
+            }
+          },
+          {
+            "url": "photo/cretes.jpg",
+            "name": "Biarritz - 2022",
+            "width": 5350,
+            "height": 3362,
+            "formats": {
+              "thumb": {
+                "url": "photo/cretes-thumb.jpg",
+                "width": 892,
+                "height": 600
+              },
+              "large": {
+                "url": "photo/crete-large.jpg",
+                "width": 1783,
+                "height": 1200
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": 4,
+        "images": [
+          
+            {
+              "url": "photo/venise.jpg",
+              "name": "Biarritz - 2022",
+              "width": 2240,
+              "height": 3360,
+              "formats": {
+                "thumb": {
+                  "url": "photo/venise-thumb.jpg",
+                  "width": 600,
+                  "height": 900
+                },
+                "large": {
+                  "url": "photo/venise-large.jpg",
+                  "width": 1200,
+                  "height": 1800
+                }
+              }
+            },
+          
+            {
+              "url": "photo/venise3.jpg",
+              "name": "Biarritz - 2022",
+              "width": 2240,
+              "height": 3360,
+              "formats": {
+                "thumb": {
+                  "url": "photo/venise3-thumb.jpg",
+                  "width": 600,
+                  "height": 900
+                },
+                "large": {
+                  "url": "photo/venise3-large.jpg",
+                  "width": 1200,
+                  "height": 1800
+                }
+              }
+            },
+            {
+              "url": "photo/madagascar.jpg",
+              "name": "Biarritz - 2022",
+              "width": 2240,
+              "height": 3360,
+              "formats": {
+                "thumb": {
+                  "url": "photo/madagascar-thumb.jpg",
+                  "width": 600,
+                  "height": 900
+                },
+                "large": {
+                  "url": "photo/madagascar-large.jpg",
+                  "width": 1200,
+                  "height": 1800
+                }
+              }
+            },
+            {
+              "url": "photo/croatie3.jpg",
+              "name": "Biarritz - 2022",
+              "width": 2240,
+              "height": 3360,
+              "formats": {
+                "thumb": {
+                  "url": "photo/croatie3-thumb.jpg",
+                  "width": 600,
+                  "height": 900
+                },
+                "large": {
+                  "url": "photo/croatie3-large.jpg",
+                  "width": 1200,
+                  "height": 1800
+                }
+              }
+            }
+             
+        ]
+      },
+      {
+        "type": 4,
+        "images": [
+          {
+            "url": "photo/paris.jpg",
+            "name": "Biarritz - 2022",
+            "width": 1378,
+            "height": 2048,
+            "formats": {
+              "thumb": {
+                "url": "photo/paris-thumb.jpg",
+                "width": 689,
+                "height": 1024
+              },
+              "large": {
+                "url": "photo/paris-large.jpg",
+                "width": 1378,
+                "height": 2048
+              }
+            }
+          },
+           {
+              "url": "photo/venise2.jpg",
+              "name": "Biarritz - 2022",
+              "width": 2240,
+              "height": 3360,
+              "formats": {
+                "thumb": {
+                  "url": "photo/venise2-thumb.jpg",
+                  "width": 600,
+                  "height": 900
+                },
+                "large": {
+                  "url": "photo/venise2-large.jpg",
+                  "width": 1200,
+                  "height": 1800
+                }
+              }
+            }
+        ]
+      }
+  ],
+  "return": "Retourner sur la page d'accueil",
+  "seo": {
+    "title": "Développeur Front-End à Bruxelles - Expert en JavaScript mais aussi photographe amateur  | Dimitri Bertin" ,
+    "title_social": "Développeur Front-End à Bruxelles - Expert en JavaScript et photographe argentique amateur",
+    "description_social": "Développeur front-end passionné, découvre également mon portfolio photo.",
+    "description": "Explorez ma galerie de photos argentiques, capturées avec passion à travers l'objectif d'un appareil photo analogique. Découvrez mon travail de photographe amateur et plongez dans l'univers de l'argentique.",
+    "url": "https://dimitribertin.be/fr/photography"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "seo": {
+    "title": "Front-End Developer in Brussels - Expert in JavaScript, React, Next.js and WordPress",
+    "title_social": "Front-End Developer in Brussels - Expert in JavaScript, React, Next.js and WordPress",
+    "description_social": "As a passionate front-end developer, I create modern, high-performance websites using React, Next.js and WordPress.",
+    "description": "Are you looking for a passionate front-end developer in Belgium? As a specialist in JavaScript, React, Next.js and WordPress, I can transform your ideas into modern, fast and intuitive web interfaces. Whether it's for a showcase site, a web application or a custom solution, I'm here to turn your projects into reality with expertise and creativity.",
+    "url": "https://dimitribertin.be/en"
+  },
+  "home": {
+    "heading_small": "<span data-aos='fade-up'>Creative developer<br/></span><span data-aos='fade-up' data-aos-delay='100'>based in Brussels</span>",
+    "link": {
+      "title": "Discover my work",
+      "url": "#page-work"
+    }
+  },
+  "work": {
+    "title": "Featured Work",
+    "description": "<p> 🚀 <strong>Expert Front-End Developer Wordpress, React, Next.js & TypeScript</strong></p><p>Passionate about web development, I transform your ideas into modern, high-performance digital experiences. With in-depth expertise in WordPress, React, Next.js, and TypeScript, I create elegant, responsive interfaces that are optimised to offer your users a smooth and captivating navigation.</p>",
+    "label": "More projet +",
+    "labelBottom": "Discover all my projects",
+    "link": "/projects",
+    "items": [
+      {
+        "slug": "axa",
+        "title": "Axa",
+        "description": "Next JS / Typescript / Webpack / Express / Twitter / OpenID / Three JS / Khoros / D3" ,
+        "picture": {
+          "url": "/assets/project/axa/banner.jpg",
+          "type": "img",
+          "width": 2000,
+          "height": 1458,
+          "alt": "Discover Richard Mille - BrandCenter, a project about React / Stylus"
+        }
+      },
+      {
+        "slug": "nature-cos",
+        "description": "Shopify / HTML / SASS / Javascript ES6",
+        "title": "Nature Cos",
+        "picture": {
+          "url": "/assets/project/nature-cos/cover.jpg",
+          "width": 2000,
+          "height": 1458,
+          "alt": "Discover Nature Cos"
+        }
+      },
+      {
+        "slug": "richard-mille",
+        "title": "Richard Mille",
+        "description": "React / Stylus / Webpack ",
+        "picture": {
+          "url": "/assets/project/richard-mille/thumbnail.jpeg",
+          "type": "img",
+          "width": 2000,
+          "height": 1458,
+          "alt": "Discover Richard Mille - BrandCenter, a project about React / Stylus"
+        }
+      }
+    ]
+  },
+  "about": {
+    "title": "Hey !",
+    "description": "<p>👋 <strong>You've seen my projects, now find out who I am</strong></p><p>I'm Dimitri! I'm 36 and I've been living in Brussels for 4 years, after growing up and studying in Paris. For the past 10 years, I've been dedicated to creating unique digital experiences, working with both large agencies and smaller structures.</p><p>Over the course of my career, I've had the opportunity to collaborate on a variety of projects, both as part of a team and on my own. This diversity has enabled me to develop a great ability to adapt, both in terms of the working environments and the methodologies used.</p><p>Today, I'd like to push back my limits and enrich my range of skills with technologies such as WebGL, 3D, and video games.</p>"
+  },
+  "photography": {
+    "title": "Photography",
+    "content": "<p>📸 <strong>No filters, no retouching </strong></p><p>Just the magic of the grain, the imperfections that tell stories, and the anticipation of development.</p>",
+    "link": {
+      "url": "/photography",
+      "title": "More pictures"
+    },
+    "featured": [
+      {
+        "url": "photo/cretes2.jpg",
+        "name": "Biarritz - 2022",
+        "width": 3602,
+        "height": 5350,
+        "formats": {
+          "thumb": {
+            "url": "photo/cretes2-thumb.jpg",
+            "width": 600,
+            "height": 892
+          },
+          "large": {
+            "url": "photo/cretes2-large.jpg",
+            "width": 1200,
+            "height": 1783
+          }
+        }
+      },
+      {
+        "url": "photo/bruxelles.jpg",
+        "name": "Biarritz - 2022",
+        "width": 3602,
+        "height": 5350,
+        "formats": {
+          "thumb": {
+            "url": "photo/bruxelles-thumb.jpg",
+            "width": 600,
+            "height": 892
+          },
+          "large": {
+            "url": "photo/bruxelles-large.jpg",
+            "width": 1200,
+            "height": 1783
+          }
+        }
+      }
+    ]
+  }
+}

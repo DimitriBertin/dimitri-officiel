@@ -1,0 +1,115 @@
+{
+  "slug": "axa",
+  "color": "#FFFFFF",
+  "labelColor": "#C59C71",
+  "title": "Axa",
+  "url": "",
+  "description": "Next JS / Typescript / Webpack / Express / Twitter / OpenID / Three JS / Khoros / D3",
+  "banner": {
+    "url": "/assets/project/axa/banner.jpg",
+    "width": 1800,
+    "height": 980,
+    "alt": ""
+  }, 
+  "blocks": [
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>Le projet React et TypeScript développé pour Axa a pour objectif de visualiser l’audit de l’e-réputation de la marque à travers des dashboards dynamiques. En s’appuyant sur Khoros, les données issues des réseaux sociaux et forums ont été collectées et analysées. Les interfaces, conçues avec Three.js, offrent un effet visuel immersif et captivant, renforçant l’expérience utilisateur. D3.js a été utilisé pour construire des graphiques interactifs permettant une lecture intuitive des tendances et des indicateurs clés. Ces pages sont conçues pour être affichées sur des écrans dédiés, offrant un aperçu en temps réel des conversations en ligne autour d'Axa.<br/>Un projet innovant qui allie performance technique et design impactant.</p>",
+      "align": "center",
+      "background": "#7899C9",
+      "textcolor": "#ffffff"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#7899C9",
+      "textcolor": "#ffffff",
+      "image": {
+        "url": "/assets/project/axa/menu.jpg",
+        "alt": "",
+        "caption": "Présentation des différents écrans disponible. Chaque écran affiche des données sensible autours de la marque AXA",
+        "width": 1280,
+        "height": 690
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#7899C9"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#4B78B8",
+      "textcolor": "#fff",
+      "image": { 
+        "url": "/assets/project/axa/home-globe.jpg",
+        "alt": "",
+        "caption": "Réprésentation global des sentiments autours d'un mots-clés: point blanc représente un sentiment positive, le point rouge négative. Pour réprésenter ces sentiments j'ai utilisé l'api de Khoros et l'utilisation de Three JS + React pour la représentation.",
+        "width": 1274,
+        "height": 520
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#4B78B8",
+      "textcolor": "#fff",
+      "image": {
+        "url": "/assets/project/axa/social.jpg",
+        "alt": "",
+        "caption": "Affichage des likes sur Instagram / linkedin / twitter",
+        "width": 1274,
+        "height": 520
+      }
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#4B78B8",
+      "textcolor": "#fff",
+      "image": {
+        "url": "/assets/project/axa/brand.jpg",
+        "alt": "",
+        "caption": "Widget de la part d'e-reputation des grands acteurs de la toile (droite) ainsi que les mots-clés mis en envant (gauche) en fonction d'une marque",
+        "width": 1149,
+        "height": 520
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#4B78B8"
+    },
+    {
+      "type": "image",
+      "components": "image",
+      "size": "full",
+      "background": "#D4E2F4",
+      "textcolor": "#1F1F1F",
+      "image": {
+        "url": "/assets/project/axa/widget.jpg",
+        "alt": "",
+        "caption": "Widget montrant le volume de posts autour de la marque (gauche), du sentiments (centre), ainsi que les 10 mots-clés qui ressortent autours de la marque (droite)",
+        "width": 1292,
+        "height": 524
+      }
+    },
+    {
+      "type": "spacer",
+      "components": "spacer",
+      "background": "#D4E2F4"
+    },
+    {
+      "type": "content",
+      "components": "Content",
+      "content": "<p>Ce projet ambitieux combine plusieurs technologies avancées : React/TypeScript pour des interfaces dynamiques, Three.js pour des visualisations immersives et D3.js pour des graphiques interactifs. Il exploite les données collectées via Khoros pour analyser l’e-réputation d’Axa en temps réel. Une réalisation technique innovante, pensée pour allier performance et impact visuel.</p>",
+      "align": "center"
+    }
+  ]
+}

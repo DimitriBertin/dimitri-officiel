@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Développeur Front-End à Bruxelles - Expert en JavaScript, React, Next.js et WordPress | Dimitri Bertin",
+    "title_social": "Développeur Front-End à Bruxelles - Expert en JavaScript, React, Next.js et WordPress",
+    "description_social": "Développeur front-end passionné, je crée des sites modernes et performants avec React, Next.js et WordPress.",
+    "description": "Vous cherchez un développeur front-end passionné en Belgique ? Spécialiste en JavaScript, React, Next.js et WordPress, je transforme vos idées en interfaces web modernes, rapides et intuitives. Que ce soit pour un site vitrine, une application web, ou une solution personnalisée, je suis là pour concrétiser vos projets avec expertise et créativité.",
+    "url": "https://dimitribertin.be/fr"
+  },
+  "home": {
+    "heading_small": "<span data-aos='fade-up'>Développeur Créative <br/></span><span data-aos='fade-up' data-aos-delay='100'>Basé sur Bruxelles</span>",
+    "link": {
+      "title": "Découvre mon portfolio",
+      "url": "#page-work"
+    }
+  },
+  "work": {
+    "title": "Mes projets web",
+    "description": "<p> 🚀 <strong>Développeur Front-End / Expert Wordpress, React, Next.js & TypeScript</strong></p><p> Passionné par le développement web, je transforme vos idées en expériences numériques modernes et performantes. Avec une expertise approfondie dans WordPress, React, Next.js, et TypeScript, je crée des interfaces élégantes, réactives et optimisées pour offrir une navigation fluide et captivante à vos utilisateurs.</p>",
+    "label": "Plus de projets +",
+    "labelBottom": "Voir tous les projets",
+    "link": "/projects",
+    "items": [
+      {
+        "slug": "axa",
+        "title": "Axa",
+        "description": "Next JS / Typescript / Webpack / Express / Twitter / OpenID / Three JS / Khoros / D3" ,
+        "picture": {
+          "url": "/assets/project/axa/banner.jpg",
+          "width": 2000,
+          "height": 1458,
+          "alt": "Discover Richard Mille - BrandCenter, a project about React / Stylus"
+        }
+      },
+      {
+        "slug": "nature-cos",
+        "description": "Shopify / HTML / SASS / Javascript ES6",
+        "title": "Nature Cos",
+        "picture": {
+          "url": "/assets/project/nature-cos/cover.jpg",
+          "width": 2000,
+          "height": 1458,
+          "alt": "Discover Nature Cos"
+        }
+      },
+      {
+        "slug": "richard-mille",
+        "title": "Richard Mille",
+        "description": "React / Stylus / Webpack ",
+        "picture": {
+          "url": "/assets/project/richard-mille/thumbnail.jpeg",
+          "width": 2000,
+          "height": 1458,
+          "alt": "Discover Richard Mille - BrandCenter, a project about React / Stylus"
+        }
+      }
+    ]
+  },
+  "photography": {
+    "title": "Photomaton",
+    "content": "<p> 📸 <strong>Pas de filtres, pas de retouches </strong></p><p>Juste la magie du grain, les imperfections qui racontent des histoires, et l’anticipation du développement.</p>",
+    "link": {
+      "url": "/photography",
+      "title": "Plus de photographies"
+    },
+    "featured": [
+      {
+        "url": "photo/cretes2.jpg",
+        "name": "Biarritz - 2022",
+        "width": 3602,
+        "height": 5350,
+        "formats": {
+          "thumb": {
+            "url": "photo/cretes2-thumb.jpg",
+            "width": 600,
+            "height": 892
+          },
+          "large": {
+            "url": "photo/cretes2-large.jpg",
+            "width": 1200,
+            "height": 1783
+          }
+        }
+      },
+      {
+        "url": "photo/bruxelles.jpg",
+        "name": "Biarritz - 2022",
+        "width": 3602,
+        "height": 5350,
+        "formats": {
+          "thumb": {
+            "url": "photo/bruxelles-thumb.jpg",
+            "width": 600,
+            "height": 892
+          },
+          "large": {
+            "url": "photo/bruxelles-large.jpg",
+            "width": 1200,
+            "height": 1783
+          }
+        }
+      }
+    ]
+  },
+  "about": {
+    "title": "Hey !",
+    "description": "<p>👋 <strong>Vous avez vu mes projets, maintenant découvrez qui je suis</strong></p><p> Moi, c’est Dimitri ! J’ai 36 ans et je vis à Bruxelles depuis 4 ans, après avoir grandi et étudié à Paris. Depuis 10 ans, je me consacre à la création d’expériences numériques uniques, en travaillant aussi bien avec de grandes agences qu’avec des structures plus petites.</p> <p>Au fil de ma carrière, j’ai eu l’opportunité de collaborer sur des projets variés, que ce soit en équipe ou en solo. Cette diversité m’a permis de développer une grande capacité d’adaptation, autant dans les environnements de travail que dans les méthodologies utilisées.</p> <p>Aujourd’hui, j’aimerais repousser mes limites et enrichir ma palette de compétence avec les technologies comme le WebGL, la 3D, et les jeux vidéo.</p>"
+  },
+  "contact": {
+    "email": "dimitri.bertin.freelance@gmail.com",
+    "instagram": "https://www.instagram.com/dimitri.bn/",
+    "github": "https://github.com/DimitriBertin",
+    "spotify": "https://open.spotify.com/user/21y6jbi5nexsamtibklxykahq?si=627ac55c1ff94782",
+    "copyright": "All rights reserved 2024 © Dimitri Bertin"
+  }
+}
